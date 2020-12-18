@@ -10,9 +10,9 @@ Putting the desired data in a csv file. Later, cleaning the data
 to display it on a webpage in the form of results.
 
 # Packages used
-BeautifulSoup
-requests
-selenium
+- BeautifulSoup
+- requests
+- selenium
 
 # How to run
 - Download the code and unzip the files
